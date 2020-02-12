@@ -19,7 +19,7 @@
 					"default": "Enter CIDR of public subnet"
 				},
 				"SSHLocation": {
-					"default": "Subnet allowed to ssh on TCP to public subnet"
+					"default": "Subnet allow to ssh on TCP to public subnet"
 				}
 			}
 		}
